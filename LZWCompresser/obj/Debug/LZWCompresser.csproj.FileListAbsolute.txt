@@ -1,0 +1,9 @@
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\bin\Debug\LZWCompresser.exe
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\bin\Debug\LZWCompresser.pdb
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Debug\ResolveAssemblyReference.cache
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Debug\LZWCompresser.MainForm.resources
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Debug\LZWCompresser.Properties.Resources.resources
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Debug\LZWCompresser.csproj.GenerateResource.Cache
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Debug\LZWCompresser.exe
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Debug\LZWCompresser.pdb
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Debug\LZWCompresser.AboutForm.resources

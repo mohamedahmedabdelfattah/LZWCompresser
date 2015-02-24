@@ -1,0 +1,2 @@
+﻿Calculate string hash code and add it to the saved lzw file at the end like
+#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX# to check for changes

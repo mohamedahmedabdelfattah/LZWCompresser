@@ -1,0 +1,8 @@
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Debug\ResolveAssemblyReference.cache
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Debug\LZWCompress.Properties.Resources.resources
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Debug\LZWCompress.csproj.GenerateResource.Cache
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\bin\Debug\LZWCompress.exe
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\bin\Debug\LZWCompress.pdb
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Debug\LZWCompress.exe
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Debug\LZWCompress.pdb
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Debug\LZWCompress.MainForm.resources

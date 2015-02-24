@@ -1,0 +1,26 @@
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Release\ResolveAssemblyReference.cache
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Release\LZWCompresser.MainForm.resources
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Release\LZWCompresser.Properties.Resources.resources
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Release\LZWCompresser.csproj.GenerateResource.Cache
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\bin\Release\LZWCompresser.exe
+E:\Mohamed\College\Projects\LZWCompress\LZWCompress\obj\Release\LZWCompresser.exe
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\bin\Release\LZWCompresser.exe
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\bin\Release\LZWCompresser.pdb
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\ResolveAssemblyReference.cache
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.AboutForm.resources
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.MainForm.resources
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.Properties.Resources.resources
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.exe
+E:\Mohamed\College\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.pdb
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\bin\Release\LZWCompresser.exe
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\bin\Release\LZWCompresser.pdb
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\ResolveAssemblyReference.cache
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.AboutForm.resources
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.MainForm.resources
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.Properties.Resources.resources
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.exe
+E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.pdb
