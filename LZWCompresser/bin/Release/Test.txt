@@ -1,1 +1,54 @@
-BABAABAAA
+ Firmware Version
+	
+:
+	3.0.0 Build 160711 Rel.45216
+ 	 	
+MAC Address
+	
+:
+	c0:25:e9:5f:0b:4c
+LAN	 			
+ 	 	
+IP Address
+	
+:
+	192.168.1.1
+ 	 	
+Subnet Mask
+	
+:
+	255.255.255.0
+ 	 	
+DHCP Server
+	
+:
+	Enabled
+Wireless	 			
+ 	 	
+Current Connected Wireless Clients number is	
+5
+	
+ID	MAC
+1	00:0F:07:00:0B:DA
+2	C0:EE:FB:6C:88:68
+3	B0:C0:90:30:44:18
+4	24:FC:E5:22:E6:84
+5	EE:5E:39:46:D4:6D
+	 	 
+WAN	 			
+ 	 	
+PVC	VPI/VCI	IP Address	Subnet	GateWay	DNS Server	Encapsulation	Status
+PVC1	0/33	N/A	N/A	N/A	N/A	Bridge	Up
+PVC2	0/35	41.47.195.164	255.255.255.255	197.43.213.1	163.121.128.134	PPPoE	Up
+PVC3	0/100	N/A	N/A	N/A	N/A	Bridge	Up
+PVC4	8/35	N/A	N/A	N/A	N/A	Bridge	Up
+PVC5	8/48	N/A	N/A	N/A	N/A	Bridge	Up
+PVC6	0/38	N/A	N/A	N/A	N/A	Bridge	Up
+IPv6	 			
+ 	 	
+PVC	VPI/VCI	IP Address	Prefix Length	Default Gateway	DNS Server	Prefix Delegation	Status
+PVC1	0/33	::	0	::	::	::/0	Down
+PVC2	0/35	::	0	::	::	::/0	Down
+PVC3	0/100	::	0	::	::	::/0	Down
+PVC4	8/35	::	0	::	::	::/0	Down
+PVC5	8/48	::	

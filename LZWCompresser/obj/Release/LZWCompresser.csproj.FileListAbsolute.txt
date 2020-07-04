@@ -24,3 +24,13 @@ E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\
 E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\GenerateResource-ResGen.write.1.tlog
 E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.exe
 E:\Mohamed\Career\Projects\Backup\MAM Specific Only\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.pdb
+D:\Programming\Projects\LZWCompresser\LZWCompresser\bin\Release\LZWCompresser.exe
+D:\Programming\Projects\LZWCompresser\LZWCompresser\bin\Release\LZWCompresser.pdb
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.csprojAssemblyReference.cache
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.AboutForm.resources
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.MainForm.resources
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.Properties.Resources.resources
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.csproj.GenerateResource.cache
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.exe
+D:\Programming\Projects\LZWCompresser\LZWCompresser\obj\Release\LZWCompresser.pdb
